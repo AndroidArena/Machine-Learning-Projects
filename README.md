@@ -1,1 +1,1 @@
-# case study on Titanic kaggle problem
+# case study on Titanic kaggle challenge
